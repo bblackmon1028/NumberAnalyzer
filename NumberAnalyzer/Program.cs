@@ -64,6 +64,7 @@ namespace NumberAnalyzer
                     else
                     {
                         repeatProgram = false;
+                        Console.WriteLine($"Goodbye, {usersName}!");
                     }
                 }
                 else
